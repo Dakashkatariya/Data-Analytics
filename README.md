@@ -1,1 +1,1 @@
-# Data-Analytics
+# Power BI project - HR Analytics
